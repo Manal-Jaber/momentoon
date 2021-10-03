@@ -4,11 +4,11 @@
     "slug": "momentoon",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/pics/Parker.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/pics/Parker.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#00001E"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
